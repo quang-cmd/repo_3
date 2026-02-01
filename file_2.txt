@@ -1,3 +1,6 @@
 quang dep trai
 nguyen ngoc quang
 quang chanh giao
+Ba: Nguyen Van Hoang
+Ma: Tran Thi Ngoc Bich
+Em: Nguyen Quang Dung
